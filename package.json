@@ -1,0 +1,23 @@
+{
+  "name": "master-hero.hatenablog.com",
+  "version": "1.0.0",
+  "description": "- blog: https://master-hero.hatenablog.com - repo: https://github.com/junjanjon/master-hero.hatenablog.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junjanjon/master-hero.hatenablog.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junjanjon/master-hero.hatenablog.com/issues"
+  },
+  "homepage": "https://github.com/junjanjon/master-hero.hatenablog.com#readme",
+  "dependencies": {
+    "gimonfu": "^0.2.2"
+  }
+}
